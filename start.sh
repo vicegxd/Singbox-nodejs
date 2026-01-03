@@ -2,7 +2,7 @@
 set -e
 
 # ================== 端口设置 ==================
-export TUIC_PORT=${TUIC_PORT:-"22"}
+export TUIC_PORT=${TUIC_PORT:-"3000"}
 export HY2_PORT=${HY2_PORT:-""}
 export REALITY_PORT=${REALITY_PORT:-"3000"}
 
